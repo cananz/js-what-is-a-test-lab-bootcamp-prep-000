@@ -1,7 +1,7 @@
 global.expect = require('expect')
 
 const fs = require('fs')
-const jsdom = require('mocha-jsdom')
+const jsdom = require('mocha-jso')
 const path = require('path')
 
 jsdom({
